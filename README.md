@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sajjad</h1>
-<h3 align="center">⚡ A passionate Flutter developer from Iran. Welcome to my page</h3>
-
-💫 My name is Sajjad and I have been interested in programming since I was a teenager. In 2019, I started learning C# because it was very easy and powerful. I have been learning C# for a short time. Then I met Flutter. After that I became very interested in this framework. I am currently studying software at university. I am crazy about learning and improving my skills. I am interested in mobile application development in clean architecture.
-
 - 🌱 I’m currently learning **Flutter & Dart**
 
 - 💬 Ask me about **Flutter & Dart**
