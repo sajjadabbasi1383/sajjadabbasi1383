@@ -1,11 +1,3 @@
-- 🌱 I’m currently learning **Flutter & Dart**
-
-- 💬 Ask me about **Flutter & Dart**
-
-- 📫 How to reach me **sajjadabbas0083@gmail.com or @SajjjadA in Telegram**
-
-- ⚡ Fun fact **I think I am funny, outgoing and hardworking**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/8459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8459" height="30" width="40" /></a>
@@ -39,9 +31,9 @@ class welcomepage extends StatelessWidget {
 ## 🚀 About Me
 My name is Sajjad and I have been interested in programming since I was a teenager. In 2019, I started learning C# because it was very easy and powerful. I have been learning C# for a short time. Then I met Flutter. After that I became very interested in this framework. I am currently studying software at university. I am crazy about learning and improving my skills. I am interested in mobile application development in clean architecture.
 
-🧠 I’m currently learning Flutter & Dart
+🧠 I’m currently learning **Flutter** & **Dart**
 
-💬 Ask me about Flutter & Dart
+💬 Ask me about **Flutter** & **Dart**
 
 ⚡ Fun fact I think I am funny, outgoing and hardworking
 ## 📣 Connect with me:
